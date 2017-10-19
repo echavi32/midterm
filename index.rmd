@@ -1,14 +1,19 @@
 ---
 output: html_document
 ---
-#5:30 Midterm
+#5:30 Section
 
 ###Edward C.
 
 ###October 15, 2017
 
-##Problem 1
+####Here is some arithmetic:
+```{r}
+x<-5
+y<-6
+x^2+y^2
+```
 
-#Done!
 
 ------------------------------------------------------
+
