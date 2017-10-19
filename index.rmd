@@ -1,0 +1,14 @@
+---
+output: html_document
+---
+#5:30 Midterm
+
+###Edward C.
+
+###October 15, 2017
+
+##Problem 1
+
+#Done!
+
+------------------------------------------------------
